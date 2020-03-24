@@ -18,9 +18,5 @@ public class Calculations {
         double w = obj.power (z, 2);
         double r = obj.addition(y, w);
         System.out.println("Результат: " + r);
-
-
-
-
     }
 }
