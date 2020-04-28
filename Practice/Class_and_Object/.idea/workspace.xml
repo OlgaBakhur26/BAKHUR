@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57e26ef9-2646-4a80-8a93-cebd65c45a41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zvt8GPA325d94DERPXAdkTiNSr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.User6Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Class_and_Object" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.User3Main" />
+      <module name="Class_and_Object" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.User4Main" />
+      <module name="Class_and_Object" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User6Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.User6Main" />
+      <module name="Class_and_Object" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.UserMain2" />
+      <module name="Class_and_Object" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.UserMain2" />
+      <item itemvalue="Application.User3Main" />
+      <item itemvalue="Application.User4Main" />
+      <item itemvalue="Application.User6Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.User6Main" />
+        <item itemvalue="Application.User4Main" />
+        <item itemvalue="Application.User3Main" />
+        <item itemvalue="Application.UserMain2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e26ef9-2646-4a80-8a93-cebd65c45a41" name="Default Changelist" comment="" />
+      <created>1585731234658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585731234658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585742541578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585742541578" />
+    <state x="1233" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1585752360609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1233" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585752360609" />
+    <state x="1103" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585742538372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585742538372" />
+    <state x="1176" y="251" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1585739432300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1176" y="251" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585739432300" />
+    <state x="1051" y="189" key="#toString()_Generation_Settings" timestamp="1585752344794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1051" y="189" key="#toString()_Generation_Settings/0.0.1920.1040@0.0.1920.1040" timestamp="1585752344794" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1585753250267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585753250267" />
+    <state width="878" height="276" key="GridCell.Tab.0.bottom" timestamp="1585753273580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585753273580" />
+    <state width="878" height="276" key="GridCell.Tab.0.center" timestamp="1585753273580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="878" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585753273580" />
+    <state width="878" height="276" key="GridCell.Tab.0.left" timestamp="1585753273580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="878" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585753273580" />
+    <state width="878" height="276" key="GridCell.Tab.0.right" timestamp="1585753273580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="878" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585753273580" />
+    <state x="685" y="154" key="new project wizard" timestamp="1585753271502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="154" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585753271502" />
+  </component>
+</project>
