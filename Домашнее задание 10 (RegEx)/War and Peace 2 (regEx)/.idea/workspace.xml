@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce714ea0-b749-4af1-b09c-9eb6d77781e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btvWOsJdIYYOrcbnvLIuCRmJuZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="War and Peace 2 (regEx)" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ten_Most_Popular_Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="War and Peace 2 (regEx)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Ten_Most_Popular_Words" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ten_Most_Popular_Words" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce714ea0-b749-4af1-b09c-9eb6d77781e1" name="Default Changelist" comment="" />
+      <created>1589464234791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589464234791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589467386471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589467386471" />
+    <state x="848" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1589810722121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589810722121" />
+    <state x="1103" y="316" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589467375542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="316" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589467375542" />
+    <state x="1235" y="284" key="FileChooserDialogImpl" timestamp="1589794675157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1235" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589794675157" />
+    <state width="1127" height="218" key="GridCell.Tab.0.bottom" timestamp="1589810869570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1127" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589810869570" />
+    <state width="1127" height="218" key="GridCell.Tab.0.center" timestamp="1589810869570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1127" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589810869570" />
+    <state width="1127" height="218" key="GridCell.Tab.0.left" timestamp="1589810869570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1127" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589810869570" />
+    <state width="1127" height="218" key="GridCell.Tab.0.right" timestamp="1589810869570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1127" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589810869570" />
+    <state x="685" y="152" key="new project wizard" timestamp="1589467931851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="152" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589467931851" />
+  </component>
+</project>
